@@ -1,0 +1,190 @@
+﻿  stdafx.cpp
+  animation.cpp
+  boss.cpp
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\boss.cpp(125,54): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\boss.cpp(125,39): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\boss.cpp(173,25): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\boss.cpp(175,50): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\boss.cpp(174,48): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\boss.cpp(182,25): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\boss.cpp(184,50): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\boss.cpp(183,53): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  bullet.cpp
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\bullet.cpp(96,92): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\bullet.cpp(134,92): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  cameraManager.cpp
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\cameraManager.cpp(140,28): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\cameraManager.cpp(140,28): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\cameraManager.cpp(140,53): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\cameraManager.cpp(140,53): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\cameraManager.cpp(140,77): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\cameraManager.cpp(140,77): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\cameraManager.cpp(140,103): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\cameraManager.cpp(140,103): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\cameraManager.cpp(147,28): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\cameraManager.cpp(147,28): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\cameraManager.cpp(147,53): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\cameraManager.cpp(147,53): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\cameraManager.cpp(147,77): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\cameraManager.cpp(147,77): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\cameraManager.cpp(147,103): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\cameraManager.cpp(147,103): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\cameraManager.cpp(153,32): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\cameraManager.cpp(153,28): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\cameraManager.cpp(160,34): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\cameraManager.cpp(160,28): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\cameraManager.cpp(167,65): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\cameraManager.cpp(167,54): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\cameraManager.cpp(167,47): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\cameraManager.cpp(167,40): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\cameraManager.cpp(167,34): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\cameraManager.cpp(167,28): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\cameraManager.cpp(174,39): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\cameraManager.cpp(174,33): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\cameraManager.cpp(181,39): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\cameraManager.cpp(181,33): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\cameraManager.cpp(186,28): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\cameraManager.cpp(187,28): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\cameraManager.cpp(188,37): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\cameraManager.cpp(188,31): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\cameraManager.cpp(193,28): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\cameraManager.cpp(194,28): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\cameraManager.cpp(210,4): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\cameraManager.cpp(209,4): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\cameraManager.cpp(230,4): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\cameraManager.cpp(229,4): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\cameraManager.cpp(242,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\cameraManager.cpp(242,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\cameraManager.cpp(265,32): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\cameraManager.cpp(265,22): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\cameraManager.cpp(265,15): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\cameraManager.cpp(265,8): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\cameraManager.cpp(264,32): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\cameraManager.cpp(264,24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  collision.cpp
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\collision.cpp(167,26): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\collision.cpp(168,28): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\collision.cpp(169,24): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\collision.cpp(170,30): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  dungeon.cpp
+  effect.cpp
+  effectManager.cpp
+  enemy.cpp
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\enemy.cpp(18,22): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\enemy.cpp(19,22): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\enemy.cpp(165,22): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\enemy.cpp(166,22): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  enemyManager.cpp
+  gameNode.cpp
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\gameNode.cpp(105,36): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\gameNode.cpp(106,36): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\gameNode.cpp(99,8): warning C4101: 'hdc' :참조되지 않은 지역 변수입니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\gameNode.cpp(98,14): warning C4101: 'ps' :참조되지 않은 지역 변수입니다.
+  image.cpp
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\image.cpp(68,28): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\image.cpp(126,28): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\image.cpp(181,28): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\image.cpp(248,14): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\image.cpp(247,14): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\image.cpp(262,14): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\image.cpp(261,14): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\image.cpp(483,44): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\image.cpp(483,29): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\image.cpp(491,44): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\image.cpp(491,29): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  imageManager.cpp
+  keyManager.cpp
+  main.cpp
+  objects.cpp
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\objects.cpp(20,82): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\objects.cpp(20,28): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\objects.cpp(21,83): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\objects.cpp(21,29): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  playeD.cpp
+  player.cpp
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(148,71): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(148,56): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(148,35): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(148,20): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(149,76): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(149,60): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(149,38): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(149,22): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(150,76): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(150,60): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(150,38): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(150,22): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(154,76): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(154,62): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(154,41): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(154,26): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(155,81): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(155,66): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(155,44): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(155,28): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(156,81): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(156,66): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(156,44): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(156,28): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(190,32): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(191,32): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(198,31): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(199,31): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(292,60): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(292,43): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(296,60): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(296,43): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(300,60): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(300,43): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(305,60): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(305,43): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(309,60): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(309,43): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(313,60): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(313,43): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(317,60): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(317,43): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(321,60): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(321,43): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(348,35): warning C4244: '=': 'LONG'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(349,35): warning C4244: '=': 'LONG'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(680,68): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(680,47): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(681,65): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(681,46): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(682,65): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(682,46): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(696,66): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(696,46): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(697,65): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(697,46): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(698,65): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\player.cpp(698,46): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  playGround.cpp
+  progressBar.cpp
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\progressBar.cpp(19,28): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\progressBar.cpp(19,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\progressBar.cpp(25,39): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\progressBar.cpp(36,35): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\progressBar.cpp(36,31): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\progressBar.cpp(45,6): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\progressBar.cpp(53,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\progressBar.cpp(51,6): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\collision.cpp(82): warning C4715: 'TTYONE_UTIL::checkPointInCircle': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  컴파일하고 있습니다...
+  sceneManager.cpp
+  soundManager.cpp
+  timeManager.cpp
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\timeManager.cpp(49,38): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\timeManager.cpp(52,39): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\timeManager.cpp(55,39): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  timer.cpp
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\timer.cpp(61,20): warning C4244: '=': 'float'에서 'unsigned long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  txtData.cpp
+  utils.cpp
+  windowsAPI.cpp
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\windowsAPI.cpp(92,16): warning C4244: 'return': 'WPARAM'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\txtData.cpp(58): warning C4172: 지역 변수 또는 임시: str의 주소를 반환하고 있습니다.
+  windowsAPI.vcxproj -> C:\Users\chany\Desktop\족적\준포폴 준완성 (2)\x64\Debug\windowsAPI.exe
